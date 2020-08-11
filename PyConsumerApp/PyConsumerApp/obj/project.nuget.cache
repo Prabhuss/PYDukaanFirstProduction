@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5gqfdeUGlCSnxt9JwC23KuOct7rZ33JIVvFm1JV3AsW/3UQgbh1sbG6Wyum3SG4p6q2IgQQ7MRP735Zy5hq1Q==",
+  "dgSpecHash": "JNx3Nk6n8brkAO6ABY1RK3NA4b49s5Eu8pOFnQCxruqw6FeVMXZMAgT6qbM3qCZVixQiFinx7Jae+mmWkdIPPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
+  "projectFilePath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\getpy\\.nuget\\packages\\exiflib.pcl\\1.0.1\\exiflib.pcl.1.0.1.nupkg.sha512",
     "C:\\Users\\getpy\\.nuget\\packages\\microsoft.appcenter\\3.2.2\\microsoft.appcenter.3.2.2.nupkg.sha512",

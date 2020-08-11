@@ -61,6 +61,8 @@
     <DefineConstants>
     </DefineConstants>
     <IntermediateOutputPath>C:\Users\getpy\AppData\Local\Temp\vs2730.tmp\Release\</IntermediateOutputPath>
+    <AndroidPackageFormat>aab</AndroidPackageFormat>
+    <AndroidUseAapt2>true</AndroidUseAapt2>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CashfreePayBindingForXamarin">

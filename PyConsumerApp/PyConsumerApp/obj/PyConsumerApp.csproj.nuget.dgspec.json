@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {}
+    "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
+    "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
+        "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
         "projectName": "PyConsumerApp",
-        "projectPath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
+        "projectPath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj",
         "packagesPath": "C:\\Users\\getpy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\obj\\",
+        "outputPath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

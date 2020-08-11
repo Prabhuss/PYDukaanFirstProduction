@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDvbG5HlnGQwA0EYVI4ebv/emWLrvvqckSr8bmDBQuI6QukpXsrNVYgX+64JRiuGuk83cVyfuT7yaQJpLGtzkg==",
+  "dgSpecHash": "0OYR18wHFBWEHzPWEKk0wqSOdjxWjZEIQG1PCQhRunk588RbK18liGTe6SraqaCdujizgWKtbamnQ5vxVhsuMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp.Android\\PyConsumerApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp.Android\\PyConsumerApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\getpy\\.nuget\\packages\\exiflib.pcl\\1.0.1\\exiflib.pcl.1.0.1.nupkg.sha512",
     "C:\\Users\\getpy\\.nuget\\packages\\flurry.analytics\\2.0.0\\flurry.analytics.2.0.0.nupkg.sha512",

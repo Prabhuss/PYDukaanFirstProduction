@@ -4531,11 +4531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
       "projectName": "PyConsumerApp.iOS",
-      "projectPath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
+      "projectPath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp.iOS\\PyConsumerApp.iOS.csproj",
       "packagesPath": "C:\\Users\\getpy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4556,8 +4556,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
-              "projectPath": "C:\\Users\\getpy\\source\\repos\\PyConsumerShopOn Final\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj"
+            "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj": {
+              "projectPath": "C:\\Users\\getpy\\source\\repos\\PYDukaanFirstProduction\\PyConsumerApp\\PyConsumerApp\\PyConsumerApp.csproj"
             }
           }
         }
